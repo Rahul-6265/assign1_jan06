@@ -1,0 +1,32 @@
+body{
+    margin-left: 400px;
+    margin-right: 400px;
+    border-style: solid;
+    border-color: purple;
+    justify-content: center;
+}
+
+
+
+.border{
+    text-align: center;
+    justify-content: center;
+    
+
+}
+
+.border h2{
+    font-weight: bolder;
+}
+
+span{
+    float: left;
+    width: 0.7em;
+    font-size: 400%;
+    line-height: 80%;
+}
+
+#para p{
+    text-decoration-line:;
+
+}
